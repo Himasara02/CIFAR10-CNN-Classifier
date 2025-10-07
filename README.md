@@ -194,11 +194,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 4. Push to branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📧 Contact
-
-**Your Name** - your.email@example.com
-
-Project Link: [https://github.com/YOUR_USERNAME/CIFAR10-CNN-Classifier](https://github.com/YOUR_USERNAME/CIFAR10-CNN-Classifier)
-
----
-⭐ **Star this repository if you found it helpful!**
+ 
